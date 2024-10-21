@@ -30,7 +30,6 @@ The dataset includes information such as daily step counts, calories burned, and
 ## Project Files
 
 - `Bellabeat_Fitbit_Analysis.Rmd`: The R Markdown file containing all steps of data cleaning, transformation, analysis, and visualizations.
-- `fitbit_data.csv`: The dataset used for the analysis (if necessary, ensure appropriate permissions for sharing).
 
 ## Key Insights
 
